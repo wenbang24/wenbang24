@@ -4,6 +4,4 @@ I make (weird) keyboards and code a bit.
 Have fun here!
 
 ---
-[![DaPotato69's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaPotato69&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaPotato69&hide_progress=true)
+<a href="https://app.daily.dev/benwang"><img src="https://api.daily.dev/devcards/v2/8QrAKITOoMZOiIkUOxi4O.png?type=wide&r=p2l" width="652" alt="Ben Wang's Dev Card"/></a>
