@@ -4,7 +4,7 @@ I make (weird) keyboards and code a bit.
 Have fun here!
 
 ## What languages do I speak?
-I am fluent in Python1 The learning journey for C++ is underway, but I think I can translate Python to C++ pretty well.<br>
+I am fluent in Python! <br>The learning journey for C++ is underway, but I think I can translate Python to C++ pretty well.<br>
 My HTML/CSS is pretty good, but Javascript could certainly be better.<br>
 Also, I've just ventured into the world of Flutter! Wish me luck!<br><br>
 I also speak Chinese!
