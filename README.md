@@ -5,7 +5,7 @@ Have fun here!
 
 ## What languages do I speak?
 I am fluent in Python! <br>The learning journey for C++ is underway, but I think I can translate Python to C++ pretty well.<br>
-My HTML/CSS is pretty good, but Javascript could certainly be better.<br>
+My HTML/CSS/JS skills are pretty good. Now just to get better at React.js.<br>
 Also, I've just ventured into the world of Flutter! Wish me luck!<br><br>
 I also speak Chinese!
 
@@ -18,5 +18,3 @@ I also speak Chinese!
 <br><br>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
----
-<a href="https://app.daily.dev/benwang"><img src="./devcard.png" width="356" alt="Ben Wang's Dev Card"/></a>
