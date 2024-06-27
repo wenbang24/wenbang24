@@ -1,11 +1,11 @@
 # 👋 Hey, welcome to my profile!
 
-I make (weird) keyboards and code a bit.
+I make (weird) keyboards and code.
 Have fun here!
 
 ## What languages do I speak?
-I consider my Python skills to be pretty good, and my C++ skills to be ok. I usually do competitive programming problems with those.<br>
-For web development, it's a random choice between vanilla HTML, Bootstrap 5 and React. Depends on how I'm feeling at the time.<br><br>
+I consider my Python and C++ skills to be pretty good. I usually do competitive programming problems with those.<br>
+For web development, it's a random choice between vanilla HTML, Bootstrap 5 and React (Next.js). Depends on how I'm feeling at the time ;)<br><br>
 I also speak Chinese.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
