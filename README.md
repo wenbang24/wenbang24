@@ -3,7 +3,7 @@
 I make (weird) keyboards and code.
 Have fun here!
 
-If you'd like, check out my portfolio [here](wenbang24.github.io)
+If you'd like, check out my portfolio [here](http://wenbang24.github.io)
 
 ## What languages do I speak?
 I consider my Python and C++ skills to be pretty good. I usually do competitive programming problems with those.<br>
