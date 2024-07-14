@@ -3,6 +3,8 @@
 I make (weird) keyboards and code.
 Have fun here!
 
+If you'd like, check out my portfolio [here](wenbang24.github.io)
+
 ## What languages do I speak?
 I consider my Python and C++ skills to be pretty good. I usually do competitive programming problems with those.<br>
 For web development, it's a random choice between vanilla HTML, Bootstrap 5 and React (Next.js). Depends on how I'm feeling at the time ;)<br><br>
