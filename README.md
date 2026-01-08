@@ -1,6 +1,6 @@
 # 👋 Hey, welcome to my profile!
 
-I make (weird) keyboards and code.
+I make (weird) keyboards and write code.
 Have fun here!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
